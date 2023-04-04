@@ -192,8 +192,8 @@ section {
 }
 @media only screen and (max-width: 800px) {
     .title-number {
-        font-size: 20vh;
-        line-height: 20vh;
+        font-size: 15vh;
+        line-height: 15vh;
     }
     .description-block {
       flex-direction: column;
