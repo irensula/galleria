@@ -27,7 +27,7 @@ window.onload = function () {
 	var span = document.getElementById('close');
 	var modalBlock = document.getElementById('modal__block');
 
-	for(i=0;i<imgArr.length;i++){
+	for(i=0; i<imgArr.length; i++){
 		var picture = imgArr[i];
 		picture.onclick = function(){
 			openImg(this);
